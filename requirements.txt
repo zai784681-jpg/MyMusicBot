@@ -1,1 +1,6 @@
 
+pyrogram
+tgcrypto
+pytgcalls
+youtube-search-python
+yt-dlp
