@@ -1,5 +1,5 @@
 pyrogram==2.0.106
 tgcrypto
-https://github.com/pytgcalls/pytgcalls/archive/master.zip
+py-tgcalls==3.0.0.dev24
 youtube-search-python
 yt-dlp
